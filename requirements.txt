@@ -6,3 +6,8 @@ pandas
 openpyxl
 aiofiles
 aiosqlite
+apscheduler
+ics
+pytesseract==0.3.10
+pdf2image==1.17.0
+Pillow>=10.0.0
