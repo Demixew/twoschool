@@ -1,1 +1,8 @@
-aiogram
+aiogram==3.7.0
+python-dotenv
+gigachat
+PyPDF2
+pandas
+openpyxl
+aiofiles
+aiosqlite
